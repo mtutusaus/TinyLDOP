@@ -1,4 +1,0 @@
-(fp_lib_table
-  (version 7)
-  (lib (name "TinyLDOP_PCBFootprints")(type "KiCad")(uri "${KIPRJMOD}/lib/TinyLDOP_PCBFootprints.pretty")(options "")(descr ""))
-)
