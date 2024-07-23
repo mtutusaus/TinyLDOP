@@ -5,7 +5,7 @@ TinyLDOP is the first part of this project and its purpose is to generate additi
 
 It designed to be placed at the middle part of a breadboard as shown:
 
-<img width="590" alt="tiny_LDOP_breadboard" src="https://github.com/user-attachments/assets/f95d3907-ff36-4e7b-826b-2feead970cd0">
+<img width="490" alt="tiny_LDOP_breadboard" src="https://github.com/user-attachments/assets/f95d3907-ff36-4e7b-826b-2feead970cd0">
 
 # Specifications
 Other specifications such as load regulation and noise can not be determined as I do not have the necessary equipment right now.
