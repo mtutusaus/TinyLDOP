@@ -14,3 +14,5 @@ Other specifications such as load regulation and noise can not be determined as 
 |---------------|----------------------------------|
 | Input voltage range (limited by input capacitor voltage rating) [V]  | 3.75–24 |
 | Maximum output current [mA]         | 500  |
+
+I am currently analysing the current capability as a function of the dissipated power, to use the board within safe operating temperatures.
