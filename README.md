@@ -37,4 +37,4 @@ See the [LICENSE](LICENSE) file for the full license text.
 
 ## Author
 
-[Miquel Tutusaus](https://github.com/mtutusaus), 2025
+[Miquel Tutusaus](https://github.com/mtutusaus), 2024
