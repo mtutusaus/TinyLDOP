@@ -19,3 +19,22 @@ The maximum output current depends on the input-output voltage difference and th
 | Output voltage range [V]        | 1.8–12  |
 | Maximum output current [mA]         | 50  |
 
+---
+
+## **License**
+This project is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+You are free to:
+- **Share** — copy and redistribute the material in any medium or format
+- **Adapt** — remix, transform, and build upon the material
+
+Under the following terms:
+- **Attribution** — You must give appropriate credit
+- **NonCommercial** — You may not use the material for commercial purposes
+- **ShareAlike** — Derivatives must use the same license
+
+See the [LICENSE](LICENSE) file for the full license text.
+
+## Author
+
+[Miquel Tutusaus](https://github.com/mtutusaus), 2025
